@@ -1,0 +1,1002 @@
+{
+  "1": {
+    "name": "bulbasaur",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/1/"
+  },
+  "2": {
+    "name": "ivysaur",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/1/"
+  },
+  "3": {
+    "name": "venusaur",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/1/"
+  },
+  "4": {
+    "name": "charmander",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/2/"
+  },
+  "5": {
+    "name": "charmeleon",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/2/"
+  },
+  "6": {
+    "name": "charizard",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/2/"
+  },
+  "7": {
+    "name": "squirtle",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/3/"
+  },
+  "8": {
+    "name": "wartortle",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/3/"
+  },
+  "9": {
+    "name": "blastoise",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/3/"
+  },
+  "10": {
+    "name": "caterpie",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/4/"
+  },
+  "11": {
+    "name": "metapod",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/4/"
+  },
+  "12": {
+    "name": "butterfree",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/4/"
+  },
+  "13": {
+    "name": "weedle",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/5/"
+  },
+  "14": {
+    "name": "kakuna",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/5/"
+  },
+  "15": {
+    "name": "beedrill",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/5/"
+  },
+  "16": {
+    "name": "pidgey",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/6/"
+  },
+  "17": {
+    "name": "pidgeotto",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/6/"
+  },
+  "18": {
+    "name": "pidgeot",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/6/"
+  },
+  "19": {
+    "name": "rattata",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/7/"
+  },
+  "20": {
+    "name": "raticate",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/7/"
+  },
+  "21": {
+    "name": "spearow",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/8/"
+  },
+  "22": {
+    "name": "fearow",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/8/"
+  },
+  "23": {
+    "name": "ekans",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/9/"
+  },
+  "24": {
+    "name": "arbok",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/9/"
+  },
+  "25": {
+    "name": "pikachu",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/10/"
+  },
+  "26": {
+    "name": "raichu",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/10/"
+  },
+  "27": {
+    "name": "sandshrew",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/11/"
+  },
+  "28": {
+    "name": "sandslash",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/11/"
+  },
+  "29": {
+    "name": "nidoran-f",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/12/"
+  },
+  "30": {
+    "name": "nidorina",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/12/"
+  },
+  "31": {
+    "name": "nidoqueen",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/12/"
+  },
+  "32": {
+    "name": "nidoran-m",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/13/"
+  },
+  "33": {
+    "name": "nidorino",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/13/"
+  },
+  "34": {
+    "name": "nidoking",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/13/"
+  },
+  "35": {
+    "name": "clefairy",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/14/"
+  },
+  "36": {
+    "name": "clefable",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/14/"
+  },
+  "37": {
+    "name": "vulpix",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/15/"
+  },
+  "38": {
+    "name": "ninetales",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/15/"
+  },
+  "39": {
+    "name": "jigglypuff",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/16/"
+  },
+  "40": {
+    "name": "wigglytuff",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/16/"
+  },
+  "41": {
+    "name": "zubat",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/17/"
+  },
+  "42": {
+    "name": "golbat",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/17/"
+  },
+  "43": {
+    "name": "oddish",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/18/"
+  },
+  "44": {
+    "name": "gloom",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/18/"
+  },
+  "45": {
+    "name": "vileplume",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/18/"
+  },
+  "46": {
+    "name": "paras",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/19/"
+  },
+  "47": {
+    "name": "parasect",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/19/"
+  },
+  "48": {
+    "name": "venonat",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/20/"
+  },
+  "49": {
+    "name": "venomoth",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/20/"
+  },
+  "50": {
+    "name": "diglett",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/21/"
+  },
+  "51": {
+    "name": "dugtrio",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/21/"
+  },
+  "52": {
+    "name": "meowth",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/22/"
+  },
+  "53": {
+    "name": "persian",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/22/"
+  },
+  "54": {
+    "name": "psyduck",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/23/"
+  },
+  "55": {
+    "name": "golduck",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/23/"
+  },
+  "56": {
+    "name": "mankey",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/24/"
+  },
+  "57": {
+    "name": "primeape",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/24/"
+  },
+  "58": {
+    "name": "growlithe",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/25/"
+  },
+  "59": {
+    "name": "arcanine",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/25/"
+  },
+  "60": {
+    "name": "poliwag",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/26/"
+  },
+  "61": {
+    "name": "poliwhirl",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/26/"
+  },
+  "62": {
+    "name": "poliwrath",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/26/"
+  },
+  "63": {
+    "name": "abra",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/27/"
+  },
+  "64": {
+    "name": "kadabra",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/27/"
+  },
+  "65": {
+    "name": "alakazam",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/27/"
+  },
+  "66": {
+    "name": "machop",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/28/"
+  },
+  "67": {
+    "name": "machoke",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/28/"
+  },
+  "68": {
+    "name": "machamp",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/28/"
+  },
+  "69": {
+    "name": "bellsprout",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/29/"
+  },
+  "70": {
+    "name": "weepinbell",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/29/"
+  },
+  "71": {
+    "name": "victreebel",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/29/"
+  },
+  "72": {
+    "name": "tentacool",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/30/"
+  },
+  "73": {
+    "name": "tentacruel",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/30/"
+  },
+  "74": {
+    "name": "geodude",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/31/"
+  },
+  "75": {
+    "name": "graveler",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/31/"
+  },
+  "76": {
+    "name": "golem",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/31/"
+  },
+  "77": {
+    "name": "ponyta",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/32/"
+  },
+  "78": {
+    "name": "rapidash",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/32/"
+  },
+  "79": {
+    "name": "slowpoke",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/33/"
+  },
+  "80": {
+    "name": "slowbro",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/33/"
+  },
+  "81": {
+    "name": "magnemite",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/34/"
+  },
+  "82": {
+    "name": "magneton",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/34/"
+  },
+  "83": {
+    "name": "farfetchd",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/35/"
+  },
+  "84": {
+    "name": "doduo",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/36/"
+  },
+  "85": {
+    "name": "dodrio",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/36/"
+  },
+  "86": {
+    "name": "seel",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/37/"
+  },
+  "87": {
+    "name": "dewgong",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/37/"
+  },
+  "88": {
+    "name": "grimer",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/38/"
+  },
+  "89": {
+    "name": "muk",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/38/"
+  },
+  "90": {
+    "name": "shellder",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/39/"
+  },
+  "91": {
+    "name": "cloyster",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/39/"
+  },
+  "92": {
+    "name": "gastly",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/40/"
+  },
+  "93": {
+    "name": "haunter",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/40/"
+  },
+  "94": {
+    "name": "gengar",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/40/"
+  },
+  "95": {
+    "name": "onix",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/41/"
+  },
+  "96": {
+    "name": "drowzee",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/42/"
+  },
+  "97": {
+    "name": "hypno",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/42/"
+  },
+  "98": {
+    "name": "krabby",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/43/"
+  },
+  "99": {
+    "name": "kingler",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/43/"
+  },
+  "100": {
+    "name": "voltorb",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/44/"
+  },
+  "101": {
+    "name": "electrode",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/44/"
+  },
+  "102": {
+    "name": "exeggcute",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/45/"
+  },
+  "103": {
+    "name": "exeggutor",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/45/"
+  },
+  "104": {
+    "name": "cubone",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/46/"
+  },
+  "105": {
+    "name": "marowak",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/46/"
+  },
+  "106": {
+    "name": "hitmonlee",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/47/"
+  },
+  "107": {
+    "name": "hitmonchan",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/47/"
+  },
+  "108": {
+    "name": "lickitung",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/48/"
+  },
+  "109": {
+    "name": "koffing",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/49/"
+  },
+  "110": {
+    "name": "weezing",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/49/"
+  },
+  "111": {
+    "name": "rhyhorn",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/50/"
+  },
+  "112": {
+    "name": "rhydon",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/50/"
+  },
+  "113": {
+    "name": "chansey",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/51/"
+  },
+  "114": {
+    "name": "tangela",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/52/"
+  },
+  "115": {
+    "name": "kangaskhan",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/53/"
+  },
+  "116": {
+    "name": "horsea",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/54/"
+  },
+  "117": {
+    "name": "seadra",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/54/"
+  },
+  "118": {
+    "name": "goldeen",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/55/"
+  },
+  "119": {
+    "name": "seaking",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/55/"
+  },
+  "120": {
+    "name": "staryu",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/56/"
+  },
+  "121": {
+    "name": "starmie",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/56/"
+  },
+  "122": {
+    "name": "mr-mime",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/57/"
+  },
+  "123": {
+    "name": "scyther",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/58/"
+  },
+  "124": {
+    "name": "jynx",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/59/"
+  },
+  "125": {
+    "name": "electabuzz",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/60/"
+  },
+  "126": {
+    "name": "magmar",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/61/"
+  },
+  "127": {
+    "name": "pinsir",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/62/"
+  },
+  "128": {
+    "name": "tauros",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/63/"
+  },
+  "129": {
+    "name": "magikarp",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/64/"
+  },
+  "130": {
+    "name": "gyarados",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/64/"
+  },
+  "131": {
+    "name": "lapras",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/65/"
+  },
+  "132": {
+    "name": "ditto",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/66/"
+  },
+  "133": {
+    "name": "eevee",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/67/"
+  },
+  "134": {
+    "name": "vaporeon",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/67/"
+  },
+  "135": {
+    "name": "jolteon",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/67/"
+  },
+  "136": {
+    "name": "flareon",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/67/"
+  },
+  "137": {
+    "name": "porygon",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/68/"
+  },
+  "138": {
+    "name": "omanyte",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/69/"
+  },
+  "139": {
+    "name": "omastar",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/69/"
+  },
+  "140": {
+    "name": "kabuto",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/70/"
+  },
+  "141": {
+    "name": "kabutops",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/70/"
+  },
+  "142": {
+    "name": "aerodactyl",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/71/"
+  },
+  "143": {
+    "name": "snorlax",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/72/"
+  },
+  "144": {
+    "name": "articuno",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/73/"
+  },
+  "145": {
+    "name": "zapdos",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/74/"
+  },
+  "146": {
+    "name": "moltres",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/75/"
+  },
+  "147": {
+    "name": "dratini",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/76/"
+  },
+  "148": {
+    "name": "dragonair",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/76/"
+  },
+  "149": {
+    "name": "dragonite",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/76/"
+  },
+  "150": {
+    "name": "mewtwo",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/77/"
+  },
+  "151": {
+    "name": "mew",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/78/"
+  },
+  "152": {
+    "name": "chikorita",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/79/"
+  },
+  "153": {
+    "name": "bayleef",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/79/"
+  },
+  "154": {
+    "name": "meganium",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/79/"
+  },
+  "155": {
+    "name": "cyndaquil",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/80/"
+  },
+  "156": {
+    "name": "quilava",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/80/"
+  },
+  "157": {
+    "name": "typhlosion",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/80/"
+  },
+  "158": {
+    "name": "totodile",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/81/"
+  },
+  "159": {
+    "name": "croconaw",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/81/"
+  },
+  "160": {
+    "name": "feraligatr",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/81/"
+  },
+  "161": {
+    "name": "sentret",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/82/"
+  },
+  "162": {
+    "name": "furret",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/82/"
+  },
+  "163": {
+    "name": "hoothoot",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/83/"
+  },
+  "164": {
+    "name": "noctowl",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/83/"
+  },
+  "165": {
+    "name": "ledyba",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/84/"
+  },
+  "166": {
+    "name": "ledian",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/84/"
+  },
+  "167": {
+    "name": "spinarak",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/85/"
+  },
+  "168": {
+    "name": "ariados",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/85/"
+  },
+  "169": {
+    "name": "crobat",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/17/"
+  },
+  "170": {
+    "name": "chinchou",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/86/"
+  },
+  "171": {
+    "name": "lanturn",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/86/"
+  },
+  "172": {
+    "name": "pichu",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/10/"
+  },
+  "173": {
+    "name": "cleffa",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/14/"
+  },
+  "174": {
+    "name": "igglybuff",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/16/"
+  },
+  "175": {
+    "name": "togepi",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/87/"
+  },
+  "176": {
+    "name": "togetic",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/87/"
+  },
+  "177": {
+    "name": "natu",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/88/"
+  },
+  "178": {
+    "name": "xatu",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/88/"
+  },
+  "179": {
+    "name": "mareep",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/89/"
+  },
+  "180": {
+    "name": "flaaffy",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/89/"
+  },
+  "181": {
+    "name": "ampharos",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/89/"
+  },
+  "182": {
+    "name": "bellossom",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/18/"
+  },
+  "183": {
+    "name": "marill",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/90/"
+  },
+  "184": {
+    "name": "azumarill",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/90/"
+  },
+  "185": {
+    "name": "sudowoodo",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/91/"
+  },
+  "186": {
+    "name": "politoed",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/26/"
+  },
+  "187": {
+    "name": "hoppip",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/92/"
+  },
+  "188": {
+    "name": "skiploom",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/92/"
+  },
+  "189": {
+    "name": "jumpluff",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/92/"
+  },
+  "190": {
+    "name": "aipom",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/93/"
+  },
+  "191": {
+    "name": "sunkern",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/94/"
+  },
+  "192": {
+    "name": "sunflora",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/94/"
+  },
+  "193": {
+    "name": "yanma",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/95/"
+  },
+  "194": {
+    "name": "wooper",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/96/"
+  },
+  "195": {
+    "name": "quagsire",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/96/"
+  },
+  "196": {
+    "name": "espeon",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/67/"
+  },
+  "197": {
+    "name": "umbreon",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/67/"
+  },
+  "198": {
+    "name": "murkrow",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/97/"
+  },
+  "199": {
+    "name": "slowking",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/33/"
+  },
+  "200": {
+    "name": "misdreavus",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/98/"
+  },
+  "201": {
+    "name": "unown",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/99/"
+  },
+  "202": {
+    "name": "wobbuffet",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/100/"
+  },
+  "203": {
+    "name": "girafarig",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/101/"
+  },
+  "204": {
+    "name": "pineco",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/102/"
+  },
+  "205": {
+    "name": "forretress",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/102/"
+  },
+  "206": {
+    "name": "dunsparce",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/103/"
+  },
+  "207": {
+    "name": "gligar",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/104/"
+  },
+  "208": {
+    "name": "steelix",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/41/"
+  },
+  "209": {
+    "name": "snubbull",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/105/"
+  },
+  "210": {
+    "name": "granbull",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/105/"
+  },
+  "211": {
+    "name": "qwilfish",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/106/"
+  },
+  "212": {
+    "name": "scizor",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/58/"
+  },
+  "213": {
+    "name": "shuckle",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/107/"
+  },
+  "214": {
+    "name": "heracross",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/108/"
+  },
+  "215": {
+    "name": "sneasel",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/109/"
+  },
+  "216": {
+    "name": "teddiursa",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/110/"
+  },
+  "217": {
+    "name": "ursaring",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/110/"
+  },
+  "218": {
+    "name": "slugma",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/111/"
+  },
+  "219": {
+    "name": "magcargo",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/111/"
+  },
+  "220": {
+    "name": "swinub",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/112/"
+  },
+  "221": {
+    "name": "piloswine",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/112/"
+  },
+  "222": {
+    "name": "corsola",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/113/"
+  },
+  "223": {
+    "name": "remoraid",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/114/"
+  },
+  "224": {
+    "name": "octillery",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/114/"
+  },
+  "225": {
+    "name": "delibird",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/115/"
+  },
+  "226": {
+    "name": "mantine",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/116/"
+  },
+  "227": {
+    "name": "skarmory",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/117/"
+  },
+  "228": {
+    "name": "houndour",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/118/"
+  },
+  "229": {
+    "name": "houndoom",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/118/"
+  },
+  "230": {
+    "name": "kingdra",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/54/"
+  },
+  "231": {
+    "name": "phanpy",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/119/"
+  },
+  "232": {
+    "name": "donphan",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/119/"
+  },
+  "233": {
+    "name": "porygon2",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/68/"
+  },
+  "234": {
+    "name": "stantler",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/120/"
+  },
+  "235": {
+    "name": "smeargle",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/121/"
+  },
+  "236": {
+    "name": "tyrogue",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/47/"
+  },
+  "237": {
+    "name": "hitmontop",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/47/"
+  },
+  "238": {
+    "name": "smoochum",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/59/"
+  },
+  "239": {
+    "name": "elekid",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/60/"
+  },
+  "240": {
+    "name": "magby",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/61/"
+  },
+  "241": {
+    "name": "miltank",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/122/"
+  },
+  "242": {
+    "name": "blissey",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/51/"
+  },
+  "243": {
+    "name": "raikou",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/123/"
+  },
+  "244": {
+    "name": "entei",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/124/"
+  },
+  "245": {
+    "name": "suicune",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/125/"
+  },
+  "246": {
+    "name": "larvitar",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/126/"
+  },
+  "247": {
+    "name": "pupitar",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/126/"
+  },
+  "248": {
+    "name": "tyranitar",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/126/"
+  },
+  "249": {
+    "name": "lugia",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/127/"
+  },
+  "250": {
+    "name": "ho-oh",
+    "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/128/"
+  }
+}
